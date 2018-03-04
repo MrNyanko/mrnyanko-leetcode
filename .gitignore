@@ -1,0 +1,5 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+mrnyanko-leetcode.iml
+/project/target/
+/target/
